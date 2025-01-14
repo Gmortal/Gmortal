@@ -50,4 +50,4 @@ Sou desenvolvedor front-end e consultor comercial com mais de 10 anos de experi�
 
 ### ⭐️ Não se esqueça de deixar uma estrela nos meus projetos!
 
-![Snake animation](https://github.com/seu-usuário-aqui/Gmortal/blob/output/github-contribution-grid-snake.svg)
+
